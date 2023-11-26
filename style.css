@@ -1,0 +1,142 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    height: 150px;
+    box-shadow:5px 5px 10px #187e95 ;
+    font-weight: bolder;
+    font-size: 25px;
+    background-color: transparent;
+}
+
+.resimSlider{
+
+    height: 600px;
+}
+h2{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+.carousel-inner{
+    box-shadow:5px 5px 10px #187e95 ;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.btn{
+    background-color: #187e95;
+}
+.btn:hover{
+    transform: scale(1.2);
+    border: 1px solid #187e95;
+}
+.nzn{
+    color: #187e95;
+    font-size: 25px;
+}
+body{
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif
+}
+h2:hover{
+    border-bottom: 1px solid #187e95;
+}
+.navbar a:hover{
+    box-shadow:5px 5px 10px #187e95 ;
+    transform: scale(0.8);
+}
+.about{
+    background-color: #f2f2f2;
+    box-shadow:5px 5px 10px #187e95 ;
+}
+.about h2{
+    margin-top: 80px;
+    padding-top: 50px;
+    
+}    
+.team{
+    box-shadow:5px 5px 10px #187e95 ;
+    margin-bottom: 100px;
+
+
+}
+.team h2{
+    margin-top: 80px;
+    padding-top: 50px;
+}
+.gallery{
+    box-shadow:5px 5px 10px #187e95 ;
+}
+.gallery h2{
+    margin-top: 80px;
+    padding-top: 50px;
+}
+.contact{
+    box-shadow:5px 5px 10px #187e95 ;
+}
+.contact h2{
+    margin-top: 80px;
+    padding-top: 50px;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+
+
+}
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.ekipCard img{
+    height: 250px;
+}
+.ekipCard img:hover{
+    opacity:0.8;
+
+}
+.ekipCard{
+    width: 350px;
+    
+   
+}
+.card{
+    box-shadow:5px 5px 10px #187e95  ;
+}
+.gallery{
+    background-color: #f2f2f2;
+
+}
+.figure{
+    box-shadow:5px 5px 10px #187e95  ;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+.carousel-item{
+
+    box-shadow:5px 5px 10px #187e95  ;
+    
+}
+.form-control:hover{
+    box-shadow:5px 5px 10px #187e95  ;
+
+}
