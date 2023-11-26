@@ -4,4 +4,4 @@
 
 <h3>Project Gif</h3>
 
-(https://github.com/nazanyilmaz/NZN-Coder/assets/147782488/aa283179-cc46-4fde-837d-e1fc7811eb4c)
+![ezgif com-optimize (3)](https://github.com/nazanyilmaz/NZN-Coder/assets/147782488/ca18c2a1-c2f8-4385-beda-440e8163da29)
